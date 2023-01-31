@@ -1,0 +1,68 @@
+
+body{
+    margin: 0px;
+}
+header{
+    display: flex;
+    background-color: aqua;
+}
+
+
+.logo{
+    width: 176px;
+    height: 59px;
+    position: absolute;
+    left: 88px;
+}
+.businnes{
+    position: absolute;
+    right: 881px;
+}
+.press{
+    position: absolute;
+     right: 780px;
+}
+.careers{
+    position: absolute;
+    right: 670px;
+}
+.about{
+    position: absolute;
+    right: 545px;
+}
+.blog{
+    position: absolute;
+    right: 435px;
+}
+.contact{
+    position: absolute;
+    right: 291px;
+}
+.trust{
+    position: absolute;
+    right: 102px;
+}
+.pic{
+    width: 100%;
+}
+
+.body{
+    margin-top: 59px;
+    display: flex;
+}
+
+.button {
+    position: absolute;
+    left: 293px;
+    top: 395px;
+    width: 176px;
+    height: 43px;
+    border-radius: 28px;
+    color: #fff;
+    background-color:#7c4bd2;
+    border:none
+}
+
+.desktop{
+    width: 400px;
+}
